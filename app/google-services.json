@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377960318514",
+    "project_id": "techcareservice-f4707",
+    "storage_bucket": "techcareservice-f4707.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377960318514:android:b03aec59588161f30ade2b",
+        "android_client_info": {
+          "package_name": "com.slt.devops.techcareservice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBINzzWscBH0OJvYKm_UCxfNK-XntKTrmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
